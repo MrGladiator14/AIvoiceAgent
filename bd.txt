@@ -1,0 +1,95 @@
+-----
+
+### **Bryson Gracias**
+
+[cite\_start]Panaji, India 403001 [cite: 2]
+[cite\_start]+91 7249469755 [cite: 2]
+[cite\_start]brysongracias@gmail.com [cite: 3]
+[cite\_start]LinkedIn: [https://www.linkedin.com/in/bryson-](https://www.google.com/search?q=https://www.linkedin.com/in/bryson-) gracias-79b828 [cite: 4]
+[cite\_start]Experienced Software Engineer with BTech in Computer Science and 1+ years of professional experience in full-stack development and machine learning[cite: 5]. [cite\_start]Proven track record of winning national-level hackathons and developing scalable applications[cite: 6]. [cite\_start]Expertise in Java Spring Boot, Python, React, and Angular[cite: 6]. [cite\_start]Strong background in full-stack engineering, LLMOps and data engineering[cite: 7].
+
+-----
+
+### [cite\_start]**Websites, Portfolios, Profiles** [cite: 8]
+
+  * [cite\_start][github.com/MrGladiator14](https://github.com/MrGladiator14) [cite: 12]
+  * [cite\_start][https://www.linkedin.com/in/brysongracias-79b828204/](https://www.linkedin.com/in/brysongracias-79b828204/) [cite: 13]
+  * [cite\_start][https://medium.com/@brysongracias](https://medium.com/@brysongracias) [cite: 14]
+
+-----
+
+### [cite\_start]**Skills** [cite: 15]
+
+  * [cite\_start]**Programming**: EJS, C, C++, Python, TypeScript, Java, React Js, Solidity, JavaScript, lex/yacc, HTML, CSS, Tailwind CSS & SASS [cite: 16]
+  * [cite\_start]**Machine Learning and Al Tools & Technologies**: MCP, Al Agents, Langchain, Langsmith, LlamaIndex, Huggingface, Mlflow, Comet Opik, weights & biases, Scikit-learn, TensorFlow [cite: 17]
+  * [cite\_start]**Infrastructure**: Spring Cloud Netflix Eureka, CQRS, gunicorn, Linux, SELinux, firewall & network routing, Apache Server, Docker [cite: 18]
+  * [cite\_start]**Databases & data Handling**: MongoDB, SQL, Databricks SQL, PubSub, HDFS, Kafka, Firebase, Solr, Cassandra [cite: 19]
+  * [cite\_start]**Data engineering**: Pandas [cite: 20]
+  * [cite\_start]**Web Development Frameworks**: Bootstrap, WordPress [cite: 21]
+  * [cite\_start]**Dev Frameworks**: spring, spring-boot, Axon, Feign, GANT, FastAPI server [cite: 22]
+  * [cite\_start]Agile development, competitive Programming [cite: 23]
+
+-----
+
+### [cite\_start]**Experience** [cite: 24]
+
+[cite\_start]**Jr Software Engineer** [cite: 25]
+[cite\_start]Germin8 Pvt Ltd, Panjim, Goa, India [cite: 26]
+[cite\_start]July 2024 - Current [cite: 28]
+
+  * [cite\_start]Designed and implemented a microservice to crawl Twitter comments from Zendesk and integrate with our platform, allowing us to read and reply to them[cite: 29].
+  * [cite\_start]The service uses Zendesk webhooks and APIs to fetch messages and Kafka for message queuing[cite: 30].
+  * [cite\_start]It also handles rate limits and implements fallbacks for downtime[cite: 31].
+  * [cite\_start]Prepared a dataset using pandas to evaluate LLM responses on customer messages[cite: 32].
+  * [cite\_start]Implemented a scalable chatbot with for auto-suggesting and replying to customer messages and comments on crawled social media posts[cite: 33].
+  * [cite\_start]Engineered prompts for the chatbot's LLM replies[cite: 34].
+  * [cite\_start]Migrated from HDFS to Google Pub/Sub[cite: 35].
+  * [cite\_start]Migrated from Solr, Cassandra, and Mongo to Databricks SQL[cite: 36].
+  * [cite\_start]Continually added features and fixed bugs in the flagship product[cite: 36].
+  * [cite\_start]**Skills**: Microservices, Python development, Java Spring Boot development, architectural design, LLMOps, data engineering with pandas, Angular development [cite: 37]
+
+[cite\_start]**Research Intern** [cite: 38]
+[cite\_start]BITS Goa Summer Research Internship, Goa [cite: 39]
+[cite\_start]June 2023-August 2023 [cite: 44]
+
+  * [cite\_start]Exploring uses of LLM in natural language to LTL specification[cite: 40].
+  * [cite\_start]Fine Tuning LLMs for optimization of natural language to Haskell[cite: 40].
+
+[cite\_start]**Intern** [cite: 41]
+[cite\_start]Linux World Informatics Pvt Ltd [cite: 42]
+[cite\_start]May 2023-June 2023 [cite: 45]
+
+  * [cite\_start]Generative Al POCs using OpenAI API[cite: 43].
+  * [cite\_start]Documenting deployment of various libraries, software & tools on latest RHEL9 OS[cite: 46].
+
+-----
+
+### [cite\_start]**Education** [cite: 47]
+
+[cite\_start]**BTech in CSE** [cite: 48]
+[cite\_start]June 2024 [cite: 48]
+[cite\_start]National Institute of Technology Goa at Goa, India [cite: 49]
+
+-----
+
+### [cite\_start]**CERTIFICATIONS** [cite: 50]
+
+  * [cite\_start]MCP ([https://huggingface.co/learn/mcp-course/unit3/certificate](https://huggingface.co/learn/mcp-course/unit3/certificate)) [cite: 51]
+  * [cite\_start]Data Analysis with Python FreeCodeCamp ([https://shorturl.at/cjpH7](https://shorturl.at/cjpH7)) [cite: 52]
+  * [cite\_start]The Complete 2024 Web Development Bootcamp Udemy ([https://shorturl.at/oyBMS](https://shorturl.at/oyBMS)) [cite: 53]
+
+-----
+
+### [cite\_start]**LANGUAGES** [cite: 54]
+
+  * [cite\_start]English [cite: 55]
+  * [cite\_start]Hindi [cite: 57]
+  * [cite\_start]Konkani [cite: 58]
+
+-----
+
+### [cite\_start]**ACHIEVEMENTS** [cite: 59]
+
+  * [cite\_start]Won National level generative Al hackathon organized by Ocrazen Al [cite: 60]
+  * [cite\_start]Winners of Winter 24 hour Hackathon organized in association with GDSC [cite: 60]
+  * [cite\_start]Finalist at 36 hour Hackathon "CentuRITon" organized by MLH & RIT Bengaluru[cite: 61].
